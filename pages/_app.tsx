@@ -12,7 +12,7 @@ export default function App({ Component, pageProps }: AppProps) {
 
   return (
     <Layout
-      title="Power parity pricing strategies"
+      title="HYIPLAB"
       path="edge-middleware/power-parity-pricing-strategies"
     >
       <div className="flex flex-col items-center justify-center min-h-screen py-2 bg-gray-50">
