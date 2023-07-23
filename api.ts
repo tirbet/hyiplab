@@ -3,9 +3,9 @@ import type { Country, Product } from './types'
 
 const PRODUCT: Product = {
   id: 'mug-nextjs',
-  name: 'Vercel Mug',
-  description: 'Limited Edition',
-  price: 15,
+  name: 'HYIPLAB - Complete HYIP Investment System',
+  description: 'HYIP Lab is an advanced investment platform that works efficiently with all devices. This is a well-architect, powerful, secure, well-optimized, and SEO Friendly web application that comes to satisfy all investment platform owner needs. HYIP Lab is ready to use web script for the business owner who wants to run and promote their next HYIP Investment business flawlessly.',
+  price: 199,
   image: '/mug.png',
   discount: REGIONS['1'].discount,
   link: `${STORE_URL}/cart/${REGIONS['1'].id}:1`,
