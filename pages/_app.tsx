@@ -32,7 +32,7 @@ export default function App({ Component, pageProps }: AppProps) {
           <Text>Dynamic content close to your users.</Text>
           <a
             className="flex items-center mt-2 text-md sm:text-lg text-blue-500 hover:underline"
-            href="https://vercel.com/docs"
+            href="https://script.viserlab.com/hyiplab/doc/"
             target="_blank"
             rel="noreferrer"
           >
