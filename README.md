@@ -17,7 +17,7 @@ The example shows the differences between doing PPP at the edge using informatio
 
 ## Demo
 
-https://edge-mug.vercel.app
+https://hyiplab.vercel.app
 
 ## How to Use
 
